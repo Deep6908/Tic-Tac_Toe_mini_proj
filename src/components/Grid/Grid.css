@@ -1,0 +1,14 @@
+.grid {
+    width: 40vmin;
+    height: 40vmin;
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 1fr;
+    grid-template-rows: 0.5fr 0.5fr 1fr;
+    width: 70vmin;
+    height: 70vmin;
+    gap: 1vmin;
+}
+
+.turn-highlight {
+    color: white;
+}
